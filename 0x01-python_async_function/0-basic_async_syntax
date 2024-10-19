@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+
+import asyncio
+import time
+import random
+max_delay = 10
+wait_random = random.random(0 , max_delay)
